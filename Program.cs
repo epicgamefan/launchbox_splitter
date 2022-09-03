@@ -26,7 +26,7 @@ namespace launchbox_splitter
 
         static void Main(string[] args)
         {
-            string launchbox_path = "E:\\epicfailNEC";
+            string launchbox_path = ".";
             string platform_path = launchbox_path + "\\Data\\Platforms";
             string splitter_export_path = launchbox_path + "\\SplitterExport";
 
